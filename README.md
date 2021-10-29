@@ -1,2 +1,2 @@
 # My first website
-Kronos-IT.github.io
+https://kronos-it.github.io/
